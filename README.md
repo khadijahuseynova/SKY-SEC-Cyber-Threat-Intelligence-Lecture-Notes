@@ -281,4 +281,41 @@ BurpSuite
 <a name="br6"></a>**I P I N V E S T I G AT I O N S**
 
 • [Information](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[by](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[IP](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[Address](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[(infobyip.com)](https://www.infobyip.com/)
+## 4.Week
+<a name="br1"></a>**CTI 4.HAFTA**
+
+SKY-SEC Bootcamp
+
+
+
+
+<a name="br2"></a>**Forum siteleri**
+
+
+
+
+<a name="br3"></a>**Forum siteleri**
+
+
+
+
+<a name="br4"></a>**Database**
+
+<http://visualgenome.org/>
+
+
+
+<a name="br5"></a>**Translation**
+
+<https://www.newocr.com/>
+
+
+
+<a name="br6"></a>**Archive**
+
+<https://archive.is/>
+
+<https://archive.org/>
+
+<http://timetravel.mementoweb.org/>
 
