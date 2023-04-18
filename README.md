@@ -204,3 +204,81 @@ Bunun için de bir site mevcut size olmayan
 |<p>OSINT-</p><p>Temel</p><p>OSINT</p><p>Teknikleri</p>||2\.Dosya Metaveri Analizi|
 | :- | :- | :- |
 3\.Reverse Image Searching
+## 3.Week
+<a name="br1"></a>**CT I 3. HAF TA**
+
+**SKY-SEC Bootcamp**
+
+
+
+
+<a name="br2"></a>**B U H A F TA N E**
+
+**Ö Ğ R E N E C E Ğ İ Z ?**
+
+• People Investigations
+
+• IP Investigations
+
+• Domain Investigations
+
+
+
+
+<a name="br3"></a>**P E O P L E I N V E S T İ G AT İ O N S**
+
+• 2 tür **People Investigations** vardır:
+
+1\. **Registry**: Bu insanların kayıtlarını
+araştıran bir tür.Bu sitelere örnek bir siteye
+bakalım.
+
+<https://registryfinder.com/>
+
+2\.**General People Searches:** İnsanlarla
+ilgili farklı bilgilerin bulunmasını sağlayan
+siteler.
+
+-***Telefon***
+
+[Numarası:](https://www.reversephonecheck.com/)[ ](https://www.reversephonecheck.com/)[https://www.reversephonecheck.](https://www.reversephonecheck.com/)
+
+[com/](https://www.reversephonecheck.com/)
+
+\- **İsim Soyisim : <https://webmii.com/>**
+
+[ ](https://www.findagrave.com/)[Find](https://www.findagrave.com/)[ ](https://www.findagrave.com/)[a](https://www.findagrave.com/)[ ](https://www.findagrave.com/)[Grave](https://www.findagrave.com/)[ ](https://www.findagrave.com/)[-](https://www.findagrave.com/)[ ](https://www.findagrave.com/)[Millions](https://www.findagrave.com/)[ ](https://www.findagrave.com/)[of](https://www.findagrave.com/)[ ](https://www.findagrave.com/)[Cemetery
+](https://www.findagrave.com/)[Re](https://www.findagrave.com/)[cords](https://www.findagrave.com/)
+
+
+
+
+<a name="br4"></a>**U S E R N A M E**
+
+**I N V E S T I G A T I O N S**
+
+[W](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[H](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[A](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[T](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[S](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[M](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[Y](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[N](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[A](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[M](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[E](https://whatsmyname.app/)
+
+[W](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[E](https://whatsmyname.app/)[ ](https://whatsmyname.app/)[B](https://whatsmyname.app/)
+
+
+
+
+<a name="br5"></a>[http://centralops.net/co/DomainDossier.a
+](http://centralops.net/co/DomainDossier.aspx)[spx](http://centralops.net/co/DomainDossier.aspx)
+
+[https://www.domainiq.com/ ](https://www.domainiq.com/)**D O M A I N**
+
+**I N V E S T I G AT I O N S**
+
+Whois
+
+BurpSuite
+
+
+
+
+<a name="br6"></a>**I P I N V E S T I G AT I O N S**
+
+• [Information](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[by](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[IP](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[Address](https://www.infobyip.com/)[ ](https://www.infobyip.com/)[(infobyip.com)](https://www.infobyip.com/)
+
