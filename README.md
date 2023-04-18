@@ -1,6 +1,6 @@
 # SKY-SEC-Cyber-Threat-Intelligence-Lecture-Notes
 Lecture Notes of 4 week Cyber Threat Intelligence Bootcamp
-<h4> First Week </h4>
+## 1.Hafta
 <a name="br1"></a>**CTI 1.HAFTA**
 
 SKY-SEC Bootcamp
@@ -16,7 +16,7 @@ SKY-SEC Bootcamp
 
 • OSINT kaynakları
 
-**1.Hafta Konuları**
+
 
 
 
@@ -55,3 +55,152 @@ SKY-SEC Bootcamp
 • Tespit Edilme Riski
 • Erişim Kaybetme Riski
 • Mağdur Olma Riski
+
+## 2.Week
+<a name="br1"></a>SKY-SEC Bootcamp
+
+CTI 2.HAFTA
+
+
+
+
+
+|<p><a name="br2"></a>**2.HAFTA**</p><p>**KONULARI**</p>||<p>• Cyber Kill Chain</p><p>• Diamond Model</p><p>• MİTRE attack</p><p>• OSİNT</p>|
+| :- | :- | :- |
+
+
+
+
+<a name="br3"></a>• Cyber Kill Chain düşman faaliyetlerini
+ tanımlayan ve durduran adım adım bir
+ yaklaşım olan ordunun öldürme zincirinin
+ bir uyarlamasıdır.
+
+|<p>CYBER</p><p>KİLL CHAİN</p>||<p>• 2011 yılında Lockheed Martin tarafından</p><p>` `geliştirilmiştir.</p><p>• Cyber Kill Chain, gelişmiş kalıcı</p><p>` `tehditler yani APT'ler olarak da bilinen</p><p>` `ve saldırganların bir saldırıyı</p><p>` `gözetlemek ve planlamak için önemli</p><p>` `ölçüde zaman harcadıkları karmaşık</p><p>` `siber saldırılara karşı savunma</p><p>` `amaçlıdır.</p>|
+| :- | :- | :- |
+
+
+
+
+<a name="br4"></a>**Cyber Kill Chain**
+
+• **Cyber Kill Chain 7 aşaması**
+
+***1.* Reconnaissance(Keşif)-** Saldırgan Keşif aşamasında ne kadar
+ fazla bilgi toplayabilirse, saldırı o kadar karmaşık ve ikna edici
+ olacak ve dolayısıyla başarı olasılığı o kadar yüksek olacaktır.
+
+***2.* Weaponization(Silahlandırma)-**Silahlandırma aşamasında,
+ saldırgan, bilinen bir güvenlik açığından yararlanabilecek uzaktan
+ erişim kötü amaçlı yazılımı, fidye yazılımı, virüs veya solucan gibi
+ bir saldırı vektörü oluşturur.
+
+***3. Delivery(Teslimat)-***Teslimat adımında, davetsiz misafir saldırıyı
+
+başlatır.
+
+***4.* Explotation(İstismar)-** İstismar aşamasında, kötü niyetli kod
+
+kurbanın sisteminde yürütülür.
+
+
+
+<a name="br5"></a>**Cyber Kill Chain**
+
+5\. **İnstallation(Kurulum)-** İstismar aşamasının hemen ardından, kötü
+amaçlı yazılım veya diğer saldırı vektörü kurbanın sistemine
+yüklenir. Tehdit aktörü sisteme girdiği ve artık kontrolü ele alabileceği
+için bu, saldırı yaşam döngüsünde bir dönüm noktasıdır.
+
+6\. ***Control&Command(Komuta ve Kontrol)-*** Command & Control'de
+saldırgan, hedef ağdaki bir cihazın veya kimliğin uzaktan kontrolünü
+üstlenmek için kötü amaçlı yazılımı kullanabilir.
+
+7\.**Actions on Objective(Hedefe yönelik eylemler)-** Bu aşamada,
+saldırgan, amaçlanan hedeflerini gerçekleştirmek için veri hırsızlığı,
+imha, şifreleme veya sızmayı içerebilecek adımlar atar.
+
+
+
+
+
+|<p><a name="br6"></a>**Diamond**</p><p>**Model of**</p><p>**Intrusion**</p><p>**Analysis**</p>||<p>• İlk güvenlik ihlali keşfedildiğinden beri saldırı</p><p>` `analizi kavramı ortaya çıktı. Siber güvenlik</p><p>` `ortamında, tehdit aktörleri tarafından yapılan siber</p><p>` `izinsiz girişlerin niteliklerini analiz etmek ve</p><p>` `izlemek için çeşitli yaklaşımlar mevcuttur. Popüler</p><p>` `yaklaşımlardan biri saldırı analizinin Diamond</p><p>` `Modelidir.</p><p>• Diamond Model Teorisi</p><p>Saldırı analizinin elmas modeli, birçok bilgi</p><p>güvenliği uzmanı tarafından siber tehditleri</p><p>doğrulamak ve izlemek için kullanılan bir</p><p>yaklaşımdır. Bu yaklaşıma göre her olay bir elmas</p><p>olarak tasvir edilebilir. Bu metodoloji, elmasın dört</p><p>bileşeninin ilişkilerinin ve özelliklerinin altını</p><p>çizer. Bu dört temel unsur, içgörüleri daha fazla</p><p>ortaya çıkarmak ve kötü niyetli faaliyetler hakkında</p><p>bilgi edinmek için analitik olarak incelenebilen</p><p>birbirleri arasındaki ilişkiyi tasvir etmek üzere</p><p>birbirine bağlıdır.</p>|
+| :- | :- | :- |
+
+
+
+
+<a name="br7"></a>• **Diamond Model bileşenleri**
+
+1\. **Düşman**
+
+Düşman, hedeflerini gerçekleştirmek için bir
+ kurbana karşı bir yetenekten yararlanmaktan
+ sorumlu bir kuruluş veya tehdit aktörüdür.
+
+|<p>**Diamond**</p><p>**Model of**</p><p>**Intrusion**</p><p>**Analysis**</p>||<p>2\.***Kabiliyet***</p><p>Yetenekler, bir olayda bir düşman tarafından</p><p>` `kullanılan araç ve teknikleri ifade eder.</p><p>3\.**Altyapı**</p><p>Altyapı, bir rakip tarafından bir yetenek sağlamak</p><p>` `için kullanılan IP veya e-posta adresleri, alan</p><p>` `adları ve diğerleri gibi fiziksel veya mantıksal</p><p>` `iletişim yapılarını içerir.</p><p>4\.***Kurban***</p><p>Kurban, saldırıların başlatıldığı, güvenlik</p><p>açıklarından yararlanılan veya yeteneklerin</p><p>kullanıldığı bir hedeftir. Hedef e-posta veya IP</p><p>adresleri, etki alanları vb. gibi kuruluşlar, kişiler</p><p>veya varlıklar olabilir.</p>|
+| :- | :- | :- |
+
+
+
+
+<a name="br8"></a>**MITRE ATTACK FRAMEWORK**
+
+• MITRE ATTACK Framework, tüm saldırı yaşam döngüsü boyunca tehdit aktörleri
+ tarafından kullanılan siber düşman taktiklerini ve tekniklerini izleyen, derlenmiş bir bilgi
+ tabanıdır.
+
+• Genel olarak halka açık tehdit istihbaratı ve olay raporlamanın yanı sıra siber güvenlik
+ analistleri ve tehdit avcılarının katkıda bulunduğu yeni teknikler üzerine araştırmalardan
+ oluşur.
+
+• Federal hükümete mühendislik ve teknik rehberlik sağlamak için oluşturulmuş kar amacı
+ gütmeyen bir kuruluştur.Ilk olarak 2013 yılında bir MITRE araştırma projesinde
+ kullanılmak üzere çerçeveyi geliştirdi ve topladığı verilere göre Adversarial Tactics,
+ Techniques ve Common Knowledge veya kısaltması ATT&CK olarak adlandırıldı.
+
+• 2015 yılında halka ücretsiz olarak sunuldu ve bugün tüm sektörlerdeki güvenlik
+ ekiplerinin kuruluşlarını bilinen ve yeni ortaya çıkan tehditlere karşı korumalarına
+ yardımcı oluyor.
+
+
+
+
+
+|<p><a name="br9"></a>OSINT- Sock</p><p>Puppets</p>||<p>• Gerçek kimliğinden vazgeçmeden</p><p>` `OSINT araştırması yapmak için</p><p>` `oluşturulmuş sahte sosyal medya</p><p>` `hesaplarıdır.</p><p>• Temel amaçları bilgi toplamak ve</p><p>` `birinin haberi olmadan onla ilgili</p><p>` `bilgi toplamaktır.</p><p>• Mükemmel bir sock puppets</p><p>edilmelidir. Mesela oluşturulurken</p><p>seçilmesi,gerçekliğe yakın olması</p><p>gibi kriterlere uymalıdır.</p>|
+| :- | :- | :- |
+oluşturmak için bazı şeylere dikkat
+VPN kullanılması,doğru platformun
+
+
+
+
+<a name="br10"></a>• **Nasıl Hesap oluşturulur?**
+
+**1.İsim**
+
+Bunun için kullanılan birkaç site var.
+
+<https://www.fakenamegenerator.com/>
+
+<https://www.elfqrin.com/fakeid.php>
+
+|<p>**OSINT –Sock**</p><p>**Puppets**</p>||<p>***2.E-Posta***</p><p>Artık elinizde isim soyisim ve diğer bilgiler</p><p>ve şimdi bu bilgilere eşleşen e-posta</p><p>adresinizin olması gerek.</p><p>**3.Yüz**</p><p>insanların fotoğraflarını sağlıyor ve</p><p>elinizdeki bilgilerle en iyi eşleşeni bularak</p><p>kendi yüzünüz yapabilirsiniz.</p><p><https://thispersondoesnotexist.com/></p>|
+| :- | :- | :- |
+Bunun için de bir site mevcut size olmayan
+
+
+
+
+
+|<p><a name="br11"></a>OSINT-Temel</p><p>OSINT</p><p>Yetenekleri</p>||<p>• OSINT araştırmacıları,</p><p>değerlendirmelerinin çoğunda,</p><p>arama motorlarını sorgulamak,</p><p>görüntüleri analiz etmek ve meta</p><p>veriler için dosyaları incelemek gibi</p><p>belirli teknikleri kullanır. Bu temel</p><p>OSINT becerileri, veriyi bulmaktan</p><p>indirmeye, ne anlama geldiğini</p><p>analiz etmeye ve ardından çevrimiçi</p><p>olarak bulunabileceği diğer yerleri</p><p>keşfetmek için İnternet'e geri</p><p>dönmeye kadar uzanır.</p>|
+| :- | :- | :- |
+
+
+
+
+<a name="br12"></a>1.Arama Motorlarından yararlanma
+
+|<p>OSINT-</p><p>Temel</p><p>OSINT</p><p>Teknikleri</p>||2\.Dosya Metaveri Analizi|
+| :- | :- | :- |
+3\.Reverse Image Searching
